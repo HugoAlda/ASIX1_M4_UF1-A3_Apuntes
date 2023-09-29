@@ -26,3 +26,21 @@ Este texto está en **_negrita y cursiva_**.
 + Quinta opción de lista desordenada.
 + Sexta opción de lista desordenada.
 
+ksdnsldmlksmldslkmkmldskmfmdslkmflkdsmlkfmslkdmlfksmldkfññls,dñlf,ds,f,dsñlf,ñds,f,dsfñsldf,dsñ,fñlds,fñlds,ñlfds,fñd
+
+lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmdslkmflkdsmflkmdslkfmlkdsmflkdsmlfmdslkssdf
+
+```
+<html>
+    <head>
+    </head>
+    <body>
+        <p>Esto es un párrafo</p>
+    </body>
+</html>
+```
+(Sirve para visualizar codigo sin necesidad de ejecutarlo y se vea como tal)
+
+[Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
+
+
