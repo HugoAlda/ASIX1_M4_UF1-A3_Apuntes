@@ -43,4 +43,4 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
-
+¡[Esto es una imagen de un planeta](./Escudo%20Barça.png "Titulo opcional  de la imagen")
