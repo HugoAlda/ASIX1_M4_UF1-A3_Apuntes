@@ -43,4 +43,4 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
-![Esto es una imagen de un planeta](https://github.com/HugoAlda/ASIX1_M4_UF1-A3_Apuntes/blob/main/Escudo%20Bar%C3%A7a.png "Titulo opcional  de la imagen")
+![Esto es una imagen de un planeta](https://github.com/HugoAlda/ASIX1_M4_UF1-A3_Apuntes/blob/main/Escudo%20Bar%C3%A7a.png "Escudo del Barça")
