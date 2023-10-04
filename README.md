@@ -45,5 +45,9 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 ![Esto es una imagen de un planeta](https://github.com/HugoAlda/ASIX1_M4_UF1-A3_Apuntes/blob/main/Escudo%20Bar%C3%A7a.png "Escudo del Barça")
 
-|Primera Col. |Segunda Col.|Tercera Col.|
+|Primera Col|Segunda Col|3 Col|
 |----------------|:-------------:|---------------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha| 134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
