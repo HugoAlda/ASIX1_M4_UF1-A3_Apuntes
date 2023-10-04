@@ -51,3 +51,6 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 |Col 3 es|Derecha| 134€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+-[ ] Opción A
+-[ ] Opción B
+-[ ] Opción C
