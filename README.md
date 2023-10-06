@@ -83,7 +83,7 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 * Etiquetas Bloque
   
-  __*Tanto el codigo como la etiqueta estan hechos en varios saltos de linea.*__
+  *Tanto el codigo como la etiqueta estan hechos en varios saltos de linea.*
 
   - Titulos.
   - Parrafos.
@@ -92,7 +92,7 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 * Etiquetas Lineales
 
-  __*Todo contenido esta puesto en una misma linea de codigo continuada.*__
+  *Todo contenido esta puesto en una misma linea de codigo continuada.*
 
   - Enlaces.
   - Estilos.
