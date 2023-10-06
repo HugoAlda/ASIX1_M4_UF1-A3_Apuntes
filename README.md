@@ -76,24 +76,28 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
         <icon>"ruta imagen"</icon> <- En esta etiqueta pondremos la imagen que queremos que se vea en la pestaña del navegador web junto con el titulo.
     </head>
     <body> <- En esa etiqueta pondremos todo el contenido visible de nuestra pagina web.
-
+        
     </body>
 </html>
 ```
 
-* Etiquetas Bloque
+* Etiquetas Bloque:
   
-  *Tanto el codigo como la etiqueta estan hechos en varios saltos de linea.*
+    *Tanto el codigo como la etiqueta estan hechos en varios saltos de linea.*
 
-  - Titulos.
-  - Parrafos.
-  - Listas.
-  - Tablas.
+    - Titulos.
+    - Parrafos.
+    - Listas.
+    - Tablas.
 
-* Etiquetas Lineales
+* Etiquetas Lineales:
 
-  *Todo contenido esta puesto en una misma linea de codigo continuada.*
+    *Todo contenido esta puesto en una misma linea de codigo continuada.*
 
-  - Enlaces.
-  - Estilos.
-  - Imagen.
+    - Enlaces.
+    - Estilos.
+    - Imagen.
+
+* Etiquetas ```HTML```:
+    
+    - <h1>
