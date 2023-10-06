@@ -65,3 +65,20 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 <br> - Se utiliza para hacer saltos de linea en HTML.
 ```
+
+```
+<!DOCTYPE html> <- Indica el tipo de documento y lenguaje que se va a utilizar.
+<html lang="en"> <- Indica el principio del contenido de la pagina web, el atributo "lang" hace referencia al idioma en el cual estara todo el contenido (language).
+    <head> <- Aqui encontraremos todo lo relacionado con la configuración de la pagina web, en esta todo el contenido que se ponga no sera visible.
+        <meta charset="UTF-8"> <- Esta etiqueta se utiliza para especificar el conjunto de caracteres que se utilizará para interpretar y mostrar el contenido de la página.
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <- Indica el tamaño de la pantalla la cual ocupara dicha paguina.
+        <title>Document</title> <- Esta etiqueta define el titulo en la pestaña del navegador de la pagina web.
+        <icon>"ruta imagen"</icon> <- En esta etiqueta pondremos la imagen que queremos que se vea en la pestaña del navegador web junto con el titulo.
+    </head>
+    <body> <- En esa etiqueta pondremos todo el contenido visible de nuestra pagina web.
+
+    </body>
+</html>
+```
+
+* Etiquetas
