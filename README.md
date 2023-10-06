@@ -58,10 +58,8 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 ## Segundo Capitulo: Introducción HTML
 
-```
-<p>contenido visible</p> <!--el atributo <p> hace referencia a un parrafo en HTML-->
+**<p>contenido visible</p>** - El atributo <p> hace referencia a un parrafo en HTML.
 
-<img href="ruta imagen"> <!--Dicha imagen se puede encontrar tanto en local como en red. Para buscar la imagen en local siempre partiremos de ./ruta imgagen-->
+**<img href="ruta imagen">** - Dicha imagen se puede encontrar tanto en local como en red. Para buscar la imagen en local siempre partiremos de ./ruta imgagen.
 
-<br> <!--Se utiliza para hacer saltos de linea en HTML-->
-```
+**<br>** - Se utiliza para hacer saltos de linea en HTML.
