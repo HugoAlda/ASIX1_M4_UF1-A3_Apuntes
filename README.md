@@ -100,4 +100,4 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 * Etiquetas ```HTML```:
     
-    - ```<h1>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. 
+    - ```<h1>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1> , <h2> , <h3> , <h4> , <h5> , <h6>```. 
