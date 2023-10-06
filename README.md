@@ -39,6 +39,7 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
     </body>
 </html>
 ```
+
 (Sirve para visualizar codigo sin necesidad de ejecutarlo y se vea como tal)
 
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
@@ -54,3 +55,11 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 -[ ] Opción A
 -[X] Opción B
 -[ ] Opción C
+
+## Segundo Capitulo: Introducción HTML
+
+<p>contenido visible</p> <!--el atributo <p> hace referencia a un parrafo en HTML-->
+
+<img href="ruta imagen"> <!--Dicha imagen se puede encontrar tanto en local como en red. Para buscar la imagen en local siempre partiremos de ./ruta imgagen-->
+
+<br> <!--Se utiliza para hacer saltos de linea en HTML-->
