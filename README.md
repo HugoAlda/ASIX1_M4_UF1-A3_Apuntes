@@ -81,4 +81,19 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 </html>
 ```
 
-* Etiquetas
+* Etiquetas Bloque
+  
+  __*Tanto el codigo como la etiqueta estan hechos en varios saltos de linea.*__
+
+  - Titulos.
+  - Parrafos.
+  - Listas.
+  - Tablas.
+
+* Etiquetas Lineales
+
+  __*Todo contenido esta puesto en una misma linea de codigo continuada.*__
+
+  - Enlaces.
+  - Estilos.
+  - Imagen.
