@@ -100,6 +100,5 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
 
 * Etiquetas ```HTML```:
     
-    - ```<h>``` -> Ej: ```<h1>Encabezado</h1>```. Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```.
-    ```<br>```
-    - ```<p>```
+    - ```<h>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. Ej: ```<h1>Encabezado</h1>```.
+    - ```<p>``` -> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Lore ipsum</p>```
