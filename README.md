@@ -25,9 +25,6 @@ Este texto está en ***negrita y cursiva***.
   * Tercer submenú.
   * Cuarto submenú.
 
-+ Quinta opción de lista desordenada.
-* Sexta opción de lista desordenada.
-
 ```
 <html>
     <head>
