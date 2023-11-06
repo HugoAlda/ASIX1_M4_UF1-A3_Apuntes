@@ -157,7 +157,7 @@ Ej:
 
 Como se vería:
 
-|Puesto|Nombre|Tiempo|
+|<font color='red'>Puesto</font>|Nombre|Tiempo|
 |----------------|:-------------:|---------------:|
 |1er|Hugo Alda|1:20:56|
 |2nd|Roberto Noble|1:30:04|
