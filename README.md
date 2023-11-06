@@ -102,3 +102,52 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
     
     - ```<h>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. Ej: ```<h1>Encabezado</h1>```.
     - ```<p>``` -> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Lore ipsum</p>```
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tablas</title>
+        <style>
+            .textoAzul {
+                color: blue;
+            }
+            #textoRojo {
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <table border="2">
+            <thead>
+                <tr id="textoRojo">
+                    <td>Puesto</td>
+                    <td>Nombre</td>
+                    <td>Tiempo</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1r</td>
+                    <td>Hugo Alda</td>
+                    <td>1:20:56</td>
+                </tr>
+                <tr class="textoAzul">
+                    <td>2nd</td>
+                    <td>Roberto Noble</td>
+                    <td>1:30:04</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Puesto</td>
+                    <td>Nombre</td>
+                    <td>Tiempo</td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>
+```
