@@ -160,6 +160,8 @@ Ej:
 
 Como se vería:
 
+![Esto es la imagen de la tabla](https://github.com/HugoAlda/ASIX1_M4_UF1-A3_Apuntes/blob/main/Tabla.png "Ej Tabla")
+
 |<font color="Red">Puesto</font>|Nombre|Tiempo|
 |----------------|:-------------:|---------------:|
 |1er|Hugo Alda|1:20:56|
