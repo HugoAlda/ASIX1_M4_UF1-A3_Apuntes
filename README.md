@@ -28,10 +28,6 @@ Este texto está en ***negrita y cursiva***.
 + Quinta opción de lista desordenada.
 * Sexta opción de lista desordenada.
 
-ksdnsldmlksmldslkmkmldskmfmdslkmflkdsmlkfmslkdmlfksmldkfññls,dñlf,ds,f,dsñlf,ñds,f,dsfñsldf,dsñ,fñlds,fñlds,ñlfds,fñd
-
-lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmdslkmflkdsmflkmdslkfmlkdsmflkdsmlfmdslkssdf
-
 ```
 <html>
     <head>
