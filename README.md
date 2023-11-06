@@ -5,11 +5,11 @@ Apuntes de todo el curso de M4 - Disseny XML
 ## Primer Capítulo: MARKDOWN
 
 Este texto está en *cursiva*.
-Este texto está en _cursiva_.
+Este texto está en *cursiva*.
 Este texto está en **negrita**.
-Este texto está en __negrita__.
+Este texto está en **negrita**.
 
-Este texto está en **_negrita y cursiva_**.
+Este texto está en ***negrita y cursiva***.
 
 1. Primera opción de menú.
 2. Segunda opción de menú.
@@ -17,14 +17,16 @@ Este texto está en **_negrita y cursiva_**.
 
 * Primera opción de lista desordenada.
 * Segunda opción de lista desordenada.
+
 - Tercera opción de lista desordenada.
     1. Primer submenú.
     2. Segundo submenú.
-- Cuarta opción de lista desordenada.
-    * Tercer submenú.
-    * Cuarto submenú.
+* Cuarta opción de lista desordenada.
+  * Tercer submenú.
+  * Cuarto submenú.
+
 + Quinta opción de lista desordenada.
-+ Sexta opción de lista desordenada.
+* Sexta opción de lista desordenada.
 
 ksdnsldmlksmldslkmkmldskmfmdslkmflkdsmlkfmslkdmlfksmldkfññls,dñlf,ds,f,dsñlf,ñds,f,dsfñsldf,dsñ,fñlds,fñlds,ñlfds,fñd
 
@@ -85,27 +87,28 @@ lñsmdflmdslkfmlkdsmlkfmdslkmflkmdsmfsdflkdsmlkfmsdlkmflkdsmkflmdslkmflkdsmflkmd
   
     *Tanto el codigo como la etiqueta estan hechos en varios saltos de linea.*
 
-    - Titulos.
-    - Parrafos.
-    - Listas.
-    - Tablas.
+  * Titulos.
+  * Parrafos.
+  * Listas.
+  * Tablas.
 
 * Etiquetas Lineales:
 
     *Todo contenido esta puesto en una misma linea de codigo continuada.*
 
-    - Enlaces.
-    - Estilos.
-    - Imagen.
+  * Enlaces.
+  * Estilos.
+  * Imagen.
 
 * Etiquetas ```HTML```:
-    
-    - ```<h>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. Ej: ```<h1>Encabezado</h1>```.
-    - ```<p>``` -> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Lore ipsum</p>```
 
-    - ```<table>``` -> Esta etiqueta sirve para crear tablas.
+  * ```<h>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. Ej: ```<h1>Encabezado</h1>```.
+  * ```<p>``` -> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Lore ipsum</p>```
+
+  * ```<table>``` -> Esta etiqueta sirve para crear tablas.
 
 Ej:
+
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -157,7 +160,7 @@ Ej:
 
 Como se vería:
 
-|<font color='red'>Puesto</font>|Nombre|Tiempo|
+|```<font color='red'>Puesto</font>```|Nombre|Tiempo|
 |----------------|:-------------:|---------------:|
 |1er|Hugo Alda|1:20:56|
 |2nd|Roberto Noble|1:30:04|
