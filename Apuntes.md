@@ -128,7 +128,6 @@ Este texto está en ***negrita y cursiva***.
 * ```<ol>``` o ```<ul>``` --> 
 
 ```
-
 <body>
     <ol>
     <li>Enlaces importantes</li>
@@ -146,7 +145,6 @@ Este texto está en ***negrita y cursiva***.
     <li>Tercer elemeneto de nivel 1</li>
     </ol>
 </body>
-
 ```
 
 * ```<br>``` --> 
