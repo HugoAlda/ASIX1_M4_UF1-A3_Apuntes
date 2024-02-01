@@ -97,37 +97,36 @@ Este texto está en ***negrita y cursiva***.
 
 * Etiquetas ```HTML```:
 
-  * ```<html>``` --> Con esta etiqueta declararemos el tipo de lenguaje que habra en nuestro archivo y en el cual dentro lo dividiremos segun dos etiquetas:
+* ```<html>``` --> Con esta etiqueta declararemos el tipo de lenguaje que habra en nuestro archivo y en el cual dentro lo dividiremos segun dos etiquetas:
 
-        * ```<head>``` --> En esta etiqueta pondremos toda la informacion del documento, titulo de la pagina, links de css, bootstrap, scripts, etc...
+* ```<head>``` --> En esta etiqueta pondremos toda la informacion del documento, titulo de la pagina, links de css, bootstrap, scripts, etc...
         
-        * ```<body>``` --> En esta etiqueta ira todo el contenido y las demas etiquetas que queramos añadir a nuestra paguina web.
+* ```<body>``` --> En esta etiqueta ira todo el contenido y las demas etiquetas que queramos añadir a nuestra paguina web.
 
-            * ```<h>``` --> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. 
+* ```<h>``` --> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. 
             
-            Ej: ```<h1>Encabezado</h1>```.
+Ej: ```<h1>Encabezado</h1>```.
             
-            * ```<p>``` --> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Hola me llamo Hugo Alda.</p>```
+* ```<p>``` --> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Hola me llamo Hugo Alda.</p>```
 
-            * ```<div>```
+* ```<div>```
             
-            * ```<img>```
+* ```<img>```
 
-            * ```<a>```
+* ```<a>```
 
-            * ```<ol>``` o ```<ul>```
+* ```<ol>``` o ```<ul>```
 
-                * ```<ul>```
+* ```<ul>```
             
-            * ```<br>```
+* ```<br>```
 
-            * ```<hr>```
+* ```<hr>```
 
-            * ``````     
+* ``````     
             
             
-            
-            * ```<table>``` --> Esta etiqueta sirve para crear tablas.
+* ```<table>``` --> Esta etiqueta sirve para crear tablas.
 
 Ej:
 
