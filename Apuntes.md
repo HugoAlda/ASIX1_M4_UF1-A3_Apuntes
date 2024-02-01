@@ -99,9 +99,15 @@ Este texto está en ***negrita y cursiva***.
 
 * ```<html>``` --> Con esta etiqueta declararemos el tipo de lenguaje que habra en nuestro archivo y en el cual dentro lo dividiremos segun dos etiquetas:
 
+    Ej ```<html> <head> "Informacion de la pagina" </head> <body> "Contenido de la pagina" </body> <html>```
+
 * ```<head>``` --> En esta etiqueta pondremos toda la informacion del documento, titulo de la pagina, links de css, bootstrap, scripts, etc...
+
+    Ej: ```<head>"Contenido"</head>```
         
 * ```<body>``` --> En esta etiqueta ira todo el contenido y las demas etiquetas que queramos añadir a nuestra paguina web.
+
+    Ej: ```<body>"Contenido"</body>```
 
 * ```<h>``` --> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. 
             
@@ -124,8 +130,7 @@ Este texto está en ***negrita y cursiva***.
 * ```<hr>```
 
 * ``````     
-            
-            
+                        
 * ```<table>``` --> Esta etiqueta sirve para crear tablas.
 
 Ej:
