@@ -154,3 +154,6 @@ Ej:
 Como se vería:
 
 ![Esto es la imagen de la tabla](https://github.com/HugoAlda/ASIX1_M4_UF1-A3_Apuntes/blob/main/img/Tabla.png "Ej Tabla")
+
+## Tercer Capitulo: Responisve
+
