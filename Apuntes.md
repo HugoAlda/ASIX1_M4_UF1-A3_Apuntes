@@ -1,6 +1,6 @@
 # ASIX1_M4_UF1-A3_Apuntes
 
-Apuntes de todo el curso de M4 - Disseny XML de Hugo Alda Cárdenas
+Apuntes de todo el curso de M4 - Disseny XML de Hugo Alda Cárdenas.
 
 ## Primer Capítulo: MARKDOWN
 
@@ -97,10 +97,37 @@ Este texto está en ***negrita y cursiva***.
 
 * Etiquetas ```HTML```:
 
-  * ```<h>``` -> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. Ej: ```<h1>Encabezado</h1>```.
-  * ```<p>``` -> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Hola me llamo Hugo Alda.</p>```
+  * ```<html>``` --> Con esta etiqueta declararemos el tipo de lenguaje que habra en nuestro archivo y en el cual dentro lo dividiremos segun dos etiquetas:
 
-  * ```<table>``` -> Esta etiqueta sirve para crear tablas.
+        * ```<head>``` --> En esta etiqueta pondremos toda la informacion del documento, titulo de la pagina, links de css, bootstrap, scripts, etc...
+        
+        * ```<body>``` --> En esta etiqueta ira todo el contenido y las demas etiquetas que queramos añadir a nuestra paguina web.
+
+            * ```<h>``` --> Esta etiqueta sirve para añadir encabezados en nuestra pagina web. A dicha etiqueta le varia el tamaño a menor según mas mayor sea el numero introducido. ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```. 
+            
+            Ej: ```<h1>Encabezado</h1>```.
+            
+            * ```<p>``` --> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Hola me llamo Hugo Alda.</p>```
+
+            * ```<div>```
+            
+            * ```<img>```
+
+            * ```<a>```
+
+            * ```<ol>``` o ```<ul>```
+
+                * ```<ul>```
+            
+            * ```<br>```
+
+            * ```<hr>```
+
+            * ``````     
+            
+            
+            
+            * ```<table>``` --> Esta etiqueta sirve para crear tablas.
 
 Ej:
 
