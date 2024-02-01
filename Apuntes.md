@@ -119,7 +119,9 @@ Este texto está en ***negrita y cursiva***.
 
     Ej: ```<div> <p> Hola Mundo </p> </div>```
             
-* ```<img>``` --> 
+* ```<img>``` --> Esta etiqueta se usa para mostrar imagenes dentro de la pagina web.
+
+    Ej: ```<img src="ubicacion de la imagen">```
 
 * ```<a>``` --> 
 
