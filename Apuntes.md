@@ -132,15 +132,15 @@ Este texto está en ***negrita y cursiva***.
     <ol>
 
     <ul>
-        <li>Primer elemento de nivel 2</li>
-        <li>Segundo elemento de nivel 2</li>
-        <li>Tercer elemento de nivel 2</li>
+        <li></li>
+        <li></li>
+        <li></li>
     </ul>
     
     <ul>
-        <li>Primer elemento de nv 2</li>
-        <li>Segundo elemento de nv 2</li>
-        <li>Tercer elemento de nv 3</li>
+        <li></li>
+        <li></li>
+        <li></li>
     </ul>
     
     </ol>
