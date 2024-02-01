@@ -1,8 +1,10 @@
 # ASIX1_M4_UF1-A3_Apuntes
 
-Apuntes de todo el curso de M4 - Disseny XML
+Apuntes de todo el curso de M4 - Disseny XML de Hugo Alda Cárdenas
 
 ## Primer Capítulo: MARKDOWN
+
+### Formas de darle estilo al texto:
 
 Este texto está en *cursiva*.
 Este texto está en *cursiva*.
