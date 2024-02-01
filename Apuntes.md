@@ -115,21 +115,29 @@ Este texto está en ***negrita y cursiva***.
             
 * ```<p>``` --> Esta etiqueta sirve para añadir texto en formato de parrafo. Ej: ```<p>Hola me llamo Hugo Alda.</p>```
 
-* ```<div>```
+* ```<div>``` --> Esta etiqueta es usada para agrupar otros elementos dentro de ella, asi podemos conseguir un orden y distribucion dentro de nuestra pagina web.
+
+    Ej: ```<div> <p> Hola Mundo </p> </div>```
             
-* ```<img>```
+* ```<img>``` --> 
 
-* ```<a>```
+* ```<a>``` --> 
 
-* ```<ol>``` o ```<ul>```
+* ```<ol>``` o ```<ul>``` --> 
 
-* ```<ul>```
+* ```<ul>``` --> 
             
-* ```<br>```
+* ```<br>``` --> 
 
-* ```<hr>```
+* ```<hr>``` --> 
 
-* ``````     
+* ```<strong>``` -->
+
+* ```<u>``` -->
+
+* ```<i>``` -->
+
+* ```<span>``` -->
                         
 * ```<table>``` --> Esta etiqueta sirve para crear tablas.
 
